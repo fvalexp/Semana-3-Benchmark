@@ -1,0 +1,6 @@
+name,country,industry,founded_year,stage,funding_total_usd,employees,arr_usd,cac_usd,ltv_usd,gross_margin_pct,ltv_cac,payback_months,nps,revenue_model
+PayFlex,Mexico,Fintech,2020,Series A,35000000,120,5200000,130,980,72,7.54,9,48,Subscription + Interchange
+SaludYA,Colombia,HealthTech,2019,Seed,8200000,55,1800000,95,620,68,6.53,10,52,Marketplace fee
+EduNova,Brazil,EdTech,2021,Pre-A,12000000,70,2400000,110,680,75,6.18,11,36,SaaS per seat
+LogiXpress,Chile,RetailTech,2020,Series A,28000000,90,4100000,140,900,67,6.43,12,44,Usage-based + SaaS
+AgroLink,Argentina,AgriTech,2022,Seed,6000000,40,950000,85,540,64,6.35,10,50,Transaction fee
